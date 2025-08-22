@@ -1,0 +1,14 @@
+artifact_uri: file:H:/Day6/mlartifacts/3518409f624948e6a11a6f040f64bea9/artifacts
+end_time: 1755854655329
+entry_point_name: ''
+experiment_id: '934261131689006163'
+lifecycle_stage: active
+run_id: 3518409f624948e6a11a6f040f64bea9
+run_name: SVM_Classifier
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755854415081
+status: 3
+tags: []
+user_id: ASM9014

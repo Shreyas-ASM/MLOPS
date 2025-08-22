@@ -1,0 +1,10 @@
+artifact_location: file:H:/Day6/mlartifacts/models/m-bb9a4d19e1684d6e8b88bd7f347ae280/artifacts
+creation_timestamp: 1755854423885
+experiment_id: '934261131689006163'
+last_updated_timestamp: 1755854655126
+model_id: m-bb9a4d19e1684d6e8b88bd7f347ae280
+model_type: ''
+name: svm_model
+source_run_id: 3518409f624948e6a11a6f040f64bea9
+status: 2
+status_message: null

@@ -1,0 +1,10 @@
+artifact_location: file:H:/Day6/mlartifacts/models/m-fcb73e605a4741bc9148f3419d792b11/artifacts
+creation_timestamp: 1755854660859
+experiment_id: '934261131689006163'
+last_updated_timestamp: 1755854788586
+model_id: m-fcb73e605a4741bc9148f3419d792b11
+model_type: ''
+name: linear_regression_model
+source_run_id: 2573658f952c476eb8244d1f71114a36
+status: 2
+status_message: null
